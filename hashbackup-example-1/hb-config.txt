@@ -1,0 +1,21 @@
+arc-size-limit 16MB
+audit-commands
+backup-linux-attrs False
+cache-size-limit 5GB
+copy-executable True
+dbid 92b3-8bee (read-only)
+dbrev 28 (read-only)
+dedup-mem 8GB
+disable-commands
+enable-commands
+hfs-compress False
+no-backup-ext
+no-backup-tag
+no-compress-ext
+no-dedup-ext jpg,png
+pack-age-days 30
+pack-bytes-free 1MB
+pack-percent-free 50
+pack-remote-archives False
+remote-update normal
+simulated-backup False
