@@ -1,5 +1,3 @@
-# do/backup-files.sh
-
 #!/bin/bash
 RUN="$HOME/do/run-files.sh"
 echo '#!/bin/bash' > $RUN

@@ -1,5 +1,3 @@
-# hbscripts/discord.sh
-
 #!/bin/bash
 LOG_PATH=$1
 DISCORD_USERNAME=$2

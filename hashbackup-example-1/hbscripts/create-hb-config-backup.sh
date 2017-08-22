@@ -1,5 +1,3 @@
-# hbscripts/create-hb-config-backup.sh
-
 #!/bin/bash
 $(dirname $0)/gen-configs.sh $1
 rsync -aPL --include='*/' --include='*.conf' --exclude='*' $1 $HOME/$HOSTNAME.hashbackup.conf
